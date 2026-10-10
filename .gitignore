@@ -1,0 +1,15 @@
+.env
+.venv/
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+lesson3/validate-dataset-one/SKILL.md
+lesson3/scripts/validate_payments.py
+lesson3/scripts/clean_payments.py
+lesson3/rules/payments_cleaning_rules.md
+lesson3/reports/users_profile.md
+lesson3/reports/payments_profile.md
+lesson3/raw/users.csv
+lesson3/raw/payments.csv
+lesson3/clean/payments_clean.csv
+lesson3/CLAUDE.md
